@@ -1,4 +1,4 @@
-# AQUABOT-MD
+# Sakun-MD
 This project is still being tested
 <p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
  <p align="center">
@@ -13,11 +13,11 @@ This project is still being tested
 <p align='center'>
     </p>
     
-  ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
+  ### ☬ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න☬
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1)
 
-## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
+## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න.☬.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanuwaofficial/AQUABOT-MD)
 
 ---------------------------------   
